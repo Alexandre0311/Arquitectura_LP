@@ -64,6 +64,10 @@ h3 {
 	color: #141d63;
 }
 
+h4 {
+	color: #313d97;
+}
+
 .fondo-inicio {
 	background-image: linear-gradient(#ffffff, #9db7d4);
 }
@@ -76,8 +80,22 @@ h3 {
 	background-image: linear-gradient(#92b2e2, #3f84d3);
 }
 
+.fondo-reporte {
+	background-color: #92b2e2;
+}
+
+.fondo-historial {
+	background-color: #bbcfec;
+}
+
 .move-down {
 	margin-top: 60%;
+}
+
+.form-reporte {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #74afdf;
 }
 
 /* Para animación de desvanecimiento (fade) */
