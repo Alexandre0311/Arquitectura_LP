@@ -55,12 +55,25 @@ img {
 	background-color:#141d5a;
 }
 
-.circulo {
-	position: absolute;
-	top: 60%;
-	left: 0%;
-	z-index: -1;
-	width: 15%;
+h1 {
+	color: #050A30;
+	font-weight: bolder;
+}
+
+h3 {
+	color: #141d63;
+}
+
+.fondo-inicio {
+	background-image: linear-gradient(#ffffff, #9db7d4);
+}
+
+.fondo-nosotros {
+	background-image: linear-gradient(#3a7ada, #9bc1ec);
+}
+
+.fondo-producto {
+	background-image: linear-gradient(#92b2e2, #3f84d3);
 }
 
 .move-down {
