@@ -85,7 +85,11 @@ h4 {
 }
 
 .fondo-historial {
-	background-color: #bbcfec;
+	background-image: linear-gradient(#92b2e2, #3f84d3);
+}
+
+.fondo-contacto {
+	background-image: linear-gradient(#5190ee, #9bc1ec);
 }
 
 .move-down {
@@ -96,6 +100,13 @@ h4 {
 	margin-top: 20px;
 	margin-bottom: 20px;
 	background-color: #74afdf;
+}
+
+
+.form-contacto {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #001b31;
 }
 
 /* Para animación de desvanecimiento (fade) */
